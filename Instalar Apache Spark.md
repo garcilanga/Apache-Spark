@@ -11,7 +11,7 @@ y la del paquete de la versión actual de Spark (2018-03-17):
 
 [http://apache.rediris.es/spark/spark-2.3.0/spark-2.3.0-bin-hadoop2.7.tgz](http://apache.rediris.es/spark/spark-2.3.0/spark-2.3.0-bin-hadoop2.7.tgz)
 
-![Página de descarga](spark-download-page.png)
+![Página de descarga](images/spark-download-page.png)
 
 Después de descargar el archivo con la última versión de Spark, lo descomprimiremos y moveremos el directorio resultante a su ubicación final. Por último crearemos un enlace simbólico para simplificar el acceso y abstraernos del número de versón; de este modo podremos tener instaladas distintas versiones y apuntar a la que más nos convenga en cada momento.
 
@@ -29,7 +29,7 @@ sudo mv spark-2.3.0-bin-hadoop2.7.tgz /opt/spark-2.3.0
 sudo ln -s /opt/spark-2.3.0 /opt/spark
 ```
 
-![Instalación](spark-terminal-install.png)
+![Instalación](images/spark-terminal-install.png)
 
 
 A continuación debemos indicar a nuestro intérprete de comandos bash dónde encontrar la aplicación, y para ello creamos la variable de entorno _SPARK_HOME_ y modificamos _PATH_:
@@ -45,7 +45,7 @@ Ahora sólo nos falta ejecutar la consola y ponernos a trabajar...
 pyspark
 ```
 
-![Consola](spark-console.png)
+![Consola](images/spark-console.png)
 
 Como podemos ver en la imagen en la cabecera nos indica, entre otras cosas, las versiones de Spark y de Python.
 
