@@ -4,7 +4,7 @@ Apache Spark es un framework open source para **procesamiento de datos masivos m
 
 Su diseño se basa en tres pilares fundamentales: **velocidad, facilidad de uso y capacidades avanzadas de analítica**.
 
-Porpociona APIs en **Java, Scala, Python y R**, así como un motor optimizado que soporta la ejecución de grafos.
+Porpociona APIs en **Java, Scala, Python y R**.
 
 También soporta un extenso y rico conjunto de herramientas de alto nivel, entre las que se incluyen:
 - **Spark SQL**, para el procesamiento de datos estructurados basado en SQL,
