@@ -14,7 +14,7 @@ La url del paquete de la versión actual de Apache Spark (2018-03-17):
 
 ![Página de descarga](images/spark-download-page.png)
 
-Después de descargar el archivo con la última versión de Spark, lo descomprimiremos y moveremos el directorio resultante a su ubicación final. Por último crearemos un enlace simbólico para simplificar el acceso y abstraernos del número de versón; de este modo podremos tener instaladas distintas versiones y apuntar a la que más nos convenga en cada momento.
+Después de descargar el archivo con la última versión de Spark, lo descomprimiremos y moveremos el directorio resultante a su ubicación final. Por último crearemos un enlace simbólico para simplificar el acceso y abstraernos del número de versión; de este modo podremos tener instaladas distintas versiones y utilizar la que más nos convenga en cada momento.
 
 ```
 # Descargar la última versión de Apache Spark
