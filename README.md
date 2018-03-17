@@ -44,6 +44,6 @@ Los artculos de esta serie irán encaminados a una instalación de Apache Spark 
 
 ### Referencias
 
-[Un Vistazo a Apache Spark Streaming](https://sg.com.mx/revista/50/un-vistazo-apache-spark-streaming)
-
 [Apache Spark](https://es.wikipedia.org/wiki/Apache_Spark)
+
+[Un Vistazo a Apache Spark Streaming](https://sg.com.mx/revista/50/un-vistazo-apache-spark-streaming)
