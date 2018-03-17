@@ -4,7 +4,7 @@ Apache Spark es un framework open source para **procesamiento de datos masivos m
 
 Su diseño se basa en tres pilares fundamentales: **velocidad, facilidad de uso y capacidades avanzadas de analítica**.
 
-Porpociona APIs en **Java, Scala, Python y R**.
+Porporciona APIs en **Java, Scala, Python y R**.
 
 También soporta un importante conjunto de herramientas de alto nivel entre las que se incluyen:
 - **Spark SQL**, para el procesamiento de datos estructurados basado en SQL,
@@ -12,7 +12,7 @@ También soporta un importante conjunto de herramientas de alto nivel entre las 
 - **GraphX**, para el procesamiento de grafos y
 - **Spark Streaming**, para procesamiento continuo (stream processing).
 
-**Spark resuelve algunas de las limitaciones inherentes de Hadoop y MapReduce**. Spark puede utilizarse junto con Hadoop, pero no es un requisito indispensable. Spark extiende el modelo MapReduce, haciendolo más rápido y posibilitando más escenarios de análisis, como por ejemplo consultas interactivas y procesamiento de flujos en tiempo real. Esto es posible gracias a que Spark utiliza un cluster de cómputo en memoria (in-memory).
+**Spark resuelve algunas de las limitaciones inherentes de Hadoop y MapReduce**. Spark puede utilizarse junto con Hadoop, pero no es un requisito indispensable. Spark extiende el modelo MapReduce, haciéndolo más rápido y posibilitando más escenarios de análisis, como por ejemplo consultas interactivas y procesamiento de flujos en tiempo real. Esto es posible gracias a que Spark utiliza un clúster de cómputo en memoria (in-memory).
 
 ## Spark en entornos de producción
 
@@ -45,4 +45,5 @@ Los artculos de esta serie irán encaminados a una instalación de Apache Spark 
 ### Referencias
 
 [Un Vistazo a Apache Spark Streaming](https://sg.com.mx/revista/50/un-vistazo-apache-spark-streaming)
+
 [Apache Spark](https://es.wikipedia.org/wiki/Apache_Spark)
