@@ -50,7 +50,10 @@ pyspark
 
 Como podemos ver en la imagen en la cabecera nos indica, entre otras cosas, las versiones de Spark y de Python.
 
-> Para salir de la consola escribe _exit()_.
+Para salir de la consola se utiliza el comando _exit_.
+```
+exit()
+```
 
 ## Referencias
 
