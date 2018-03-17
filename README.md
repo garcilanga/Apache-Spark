@@ -1,7 +1,5 @@
 # Apache Spark
 
-En esta serie vamos a trabajar con Apache Spark.
-
 Apache Spark es un framework open source para **procesamiento de datos masivos mediante computación distribuída**.
 
 Su diseño se basa en tres pilares fundamentales: **velocidad, facilidad de uso y capacidades avanzadas de analítica**.
