@@ -1,8 +1,8 @@
 # Instalar Apache Spark
 
-Vamos a instalar la última versión de Apache Spark en un sistema operativo Ubuntu 16.04 (XeniqAL).
+Vamos a instalar Apache Spark en un sistema operativo Ubuntu 16.04 (XeniqAL).
 
-En primer lugar vamos a descargar la última versión de Apache Spark desde su página oficial. Podemos hacerlo directamente haciendo click sobre el enlace de desarga, o por línea de comando mediante _wget_ y la url de dicho enlace.
+En primer lugar descargarEMOS la última versión de Apache Spark desde su página oficial. Podemos hacerlo directamente haciendo click sobre el enlace de desarga, o por línea de comando mediante _wget_ y la url de dicho enlace.
 
 La url de la página principal de descargas de Apache Spark es:
 
