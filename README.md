@@ -6,7 +6,7 @@ Su diseño se basa en tres pilares fundamentales: **velocidad, facilidad de uso 
 
 Porpociona APIs en **Java, Scala, Python y R**.
 
-También soporta un extenso y rico conjunto de herramientas de alto nivel, entre las que se incluyen:
+También soporta un importante conjunto de herramientas de alto nivel entre las que se incluyen:
 - **Spark SQL**, para el procesamiento de datos estructurados basado en SQL,
 - **MLlib**, para implementar aprendizaje automático (machine learning), 
 - **GraphX**, para el procesamiento de grafos y
