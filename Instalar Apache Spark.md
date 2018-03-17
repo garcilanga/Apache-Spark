@@ -50,6 +50,8 @@ pyspark
 
 Como podemos ver en la imagen en la cabecera nos indica, entre otras cosas, las versiones de Spark y de Python.
 
+> Para salir de la consola escribe _exit()_.
+
 ## Referencias
 
 [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
