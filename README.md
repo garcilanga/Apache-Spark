@@ -12,7 +12,7 @@ También soporta un extenso y rico conjunto de herramientas de alto nivel, entre
 - **GraphX**, para el procesamiento de grafos y
 - **Spark Streaming**, para procesamiento continuo (stream processing).
 
-**Spark resuelve algunas de las limitaciones inherentes de Hadoop y MapReduce**. Spark puede utilizarse junto con Hadoop, pero no es un requisito indispensable. Spark extiende el modelo MapReduce, haciendolo más rápido y posibiliando más escenarios de análisis, como por ejemplo consultas interactivas y procesamiento de flujos en tiempo real. Esto es posible gracias a que Spark utiliza un cluster de cómputo en memoria (in-memory).
+**Spark resuelve algunas de las limitaciones inherentes de Hadoop y MapReduce**. Spark puede utilizarse junto con Hadoop, pero no es un requisito indispensable. Spark extiende el modelo MapReduce, haciendolo más rápido y posibilitando más escenarios de análisis, como por ejemplo consultas interactivas y procesamiento de flujos en tiempo real. Esto es posible gracias a que Spark utiliza un cluster de cómputo en memoria (in-memory).
 
 ## Spark en entornos de producción
 
