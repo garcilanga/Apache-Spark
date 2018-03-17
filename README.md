@@ -36,7 +36,7 @@ Para el almacenamiento distribuido, Spark presenta interfaces hacia una gran var
 
 Spark también soporta un modo local pesudo-distribuido, normalmente utilizado solo para pruebas o en entornos de desarrollo donde el almacenamiento distribuido no es obligatorio y se puede usar el sistema de archivos local. En un escenarion como este, Spark se ejecuta en una única máquina con un executor por cada core de CPU.
 
-Los artculos de esta serie irán encaminados a una instalación de Apache Spark en modo local, y enttre ellos eremos los siguientes temas:
+Los artículos de esta serie estarán orientados a una instalación de Apache Spark en modo local, y entre ellos analizaremos algunos temas como los siguientes:
 
 1. Instalar Apache Spark
 2. Usar Apache Spark con Jupyter
