@@ -65,7 +65,11 @@ Pero antes de nada hemos de instalar en nuestro sistema el paquete correspondien
 pip install findspark
 ```
 
+Una vez instalada, ejecutamos Jupyter Notebook, creamos un nuevo script Pyhon e importamos la librería:
+
 ![findspark](images/jupyter-findspark.png)
+
+Ahora ya podemos utilizar Apache Spark programando en Python.
 
 ## Referencias
 
