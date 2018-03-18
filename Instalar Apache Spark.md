@@ -2,15 +2,15 @@
 
 Vamos a instalar Apache Spark en un sistema operativo Ubuntu 16.04 (Xenial) y a utilizarlo con Python.
 
-> NOTA: se considera que _Python_ y su gestor de paquetes _pip_ ya se encuentran instalados en el sistema.
+> NOTA: se considera que Python y su gestor de paquetes pip ya se encuentran instalados en el sistema.
 
-En primer lugar descargaremos la última versión de Apache Spark desde su página oficial. Podemos hacerlo directamente haciendo click sobre el enlace de desarga, o por línea de comandos mediante _wget_ y la url de dicho enlace.
+En primer lugar descargaremos la última versión de Apache Spark desde su página oficial. Podemos hacerlo directamente haciendo click sobre el enlace de desarga, o por línea de comandos mediante wget y la url de dicho enlace.
 
 La url de la página principal de descargas de Apache Spark es:
 
 [http://spark.apache.org/downloads.html](http://spark.apache.org/downloads.html)
 
-y la url del paquete de la versión actual de Apache Spark (_a fecha 2018-03-18_):
+y la url del paquete de la versión actual de Apache Spark (a fecha 2018-03-18):
 
 [http://apache.rediris.es/spark/spark-2.3.0/spark-2.3.0-bin-hadoop2.7.tgz](http://apache.rediris.es/spark/spark-2.3.0/spark-2.3.0-bin-hadoop2.7.tgz)
 
@@ -34,11 +34,17 @@ sudo ln -s /opt/spark-2.3.0 /opt/spark
 
 ![Instalación](images/spark-terminal-install.png)
 
-
-A continuación debemos indicar a nuestro intérprete de comandos _bash_ dónde encontrar la aplicación, y para ello creamos la variable de entorno _SPARK_HOME_ y modificamos _PATH_:
+A continuación debemos indicar a nuestro intérprete de comandos bash dónde encontrar la aplicación, y para ello creamos la variable de entorno SPARK_HOME y modificamos PATH:
 ```
 export SPARK_HOME=/opt/spark
 export PATH=$SPARK_HOME/bin:$PATH
+```
+
+Podemos escribir estas variables de entorno cada vez que abramos una nueva consola o terminal, o añadirlas a nuestro archivo ~./bashrc para tenerlas siempre disponble y no volver a escribirlas.
+
+```
+# Editar ~/.bashrc
+sudo nano ~/.bashrc
 ```
 
 Ahora sólo nos falta ejecutar la consola y ponernos a trabajar...
