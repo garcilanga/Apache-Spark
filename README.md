@@ -40,7 +40,7 @@ Los artículos de esta serie estarán orientados a una instalación de Apache Sp
 
 1. Instalar Apache Spark.
 2. Usar Apache Spark con Jupyter.
-3. Ejercicio: cálculo del valor del número PI.
+3. Ejercicio: calcular el valor del número PI.
 4. Ejercicio: contar y buscar palabras en archivos de texto. 
 5. ...
 
