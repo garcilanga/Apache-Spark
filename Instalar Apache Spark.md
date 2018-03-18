@@ -8,7 +8,7 @@ La url de la página principal de descargas de Apache Spark es:
 
 [http://spark.apache.org/downloads.html](http://spark.apache.org/downloads.html)
 
-y la url del paquete de la versión actual de Apache Spark (2018-03-17):
+y la url del paquete de la versión actual de Apache Spark (_a fecha 2018-03-18_):
 
 [http://apache.rediris.es/spark/spark-2.3.0/spark-2.3.0-bin-hadoop2.7.tgz](http://apache.rediris.es/spark/spark-2.3.0/spark-2.3.0-bin-hadoop2.7.tgz)
 
