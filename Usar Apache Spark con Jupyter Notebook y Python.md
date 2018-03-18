@@ -56,7 +56,7 @@ Después reiniciaremos la consola o terminal y ejecutaremos el comando pyspark.
 
 ### 2 - Cargando el paquete findSpark desde un script Python en Jupyter Notebook.
 
-La segunda forma de utilizar Spark y Python con Jupiter Notebook es ejecutar éste ultimo, crear un nuevo script Python, como vimos al inicio del artículo, e importar la librería findspark.
+La segunda forma de utilizar Spark y Python con Jupyter Notebook es ejecutar éste ultimo, crear un nuevo script Python, como vimos al inicio del artículo, e importar la librería findspark.
 
 Pero antes de nada hemos de instalar en nuestro sistema el paquete correspondiente a dicha librería:
 
