@@ -38,7 +38,7 @@ Spark también soporta un modo local pesudo-distribuido, normalmente utilizado s
 
 Los artículos de esta serie estarán orientados a una instalación de Apache Spark en modo local, y entre ellos analizaremos algunos temas como los siguientes:
 
-1. Instalar Apache Spark.
+1. [Instalar Apache Spark.](https://github.com/garcilanga/Apache-Spark/blob/master/Instalar%20Apache%20Spark.md)
 2. Usar Apache Spark con Jupyter Notebook y Python.
 3. Ejercicio: calcular el valor del número PI.
 4. Ejercicio: contar y buscar palabras en archivos de texto. 
