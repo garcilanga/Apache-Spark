@@ -34,13 +34,13 @@ sudo ln -s /opt/spark-2.3.0 /opt/spark
 
 ![Instalación](images/spark-terminal-install.png)
 
-A continuación debemos indicar a nuestro intérprete de comandos bash dónde encontrar la aplicación, y para ello creamos la variable de entorno SPARK_HOME y modificamos PATH:
+A continuación debemos indicar a nuestro intérprete de comandos bash dónde encontrar la aplicación, y para ello crearemos la variable de entorno SPARK_HOME y modificamos PATH:
 ```
 export SPARK_HOME=/opt/spark
 export PATH=$SPARK_HOME/bin:$PATH
 ```
 
-Podemos escribir estas variables de entorno cada vez que abramos una nueva consola o terminal, o añadirlas a nuestro archivo ~./bashrc para tenerlas siempre disponble y no volver a escribirlas.
+Podemos escribir estas variables de entorno cada vez que abramos una nueva consola o terminal, o evitar tener que hacerlo añadiéndolas a nuestro archivo ~./bashrc para tenerlas siempre disponbles.
 
 ```
 # Editar ~/.bashrc
