@@ -2,7 +2,7 @@
 
 Vamos a instalar Apache Spark en un sistema operativo Ubuntu 16.04 (Xenial) y a utilizarlo con Python.
 
-> NOTA: se considera que Python y su gestor de paquetes pip ya se encuentran instalados en el sistema.
+> NOTA: se considera que _Python_ y su gestor de paquetes _pip_ ya se encuentran instalados en el sistema.
 
 En primer lugar descargaremos la última versión de Apache Spark desde su página oficial. Podemos hacerlo directamente haciendo click sobre el enlace de desarga, o por línea de comandos mediante _wget_ y la url de dicho enlace.
 
