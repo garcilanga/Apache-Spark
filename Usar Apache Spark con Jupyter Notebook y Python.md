@@ -1,4 +1,4 @@
- Usar Apache Spark con Jupyter
+# Usar Apache Spark con Jupyter
 
 En este artículo vamos a aprender a utilizar Apache Spark con Python y Jupyter Notebook.
 
