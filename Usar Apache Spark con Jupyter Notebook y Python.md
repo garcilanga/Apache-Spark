@@ -2,7 +2,7 @@
 
 En este artículo veremos cómo utilizar Apache Spark y Python con Jupyter Notebook.
 
-Como punto de partida consideraremos que tenemos una máquina con S.O. Ubuntu 16.04 (Xenial) en el que ya se encuentran instalados tanto Apache Spark como Python y su gestor de paquetes pip.
+Como punto de partida consideraremos que tenemos una máquina con S.O. Ubuntu 16.04 (Xenial) en la que ya se encuentran instalados Java JDK 1.7 ó posterior, Apache Spark y Python y su gestor de paquetes pip.
 
 Jupyter Notebook es una aplicación web que permite crear y compartir documentos que pueden contener tanto código fuente como visualizaciones, ecuaciones y texto explicativo. Entre sus usos está la limpieza y transformación de datos, la simulación numérica, el modelado estadístico, el aprendizaje automático y mucho más.
 
