@@ -56,9 +56,9 @@ pyspark
 
 ![Consola](images/spark-console.png)
 
-Como podemos ver en la imagen en la cabecera nos indica, entre otras cosas, las versiones de Spark y de Python.
+Como podemos ver en la imagen anterior, durante el arranque de la aplicacion se nos informa, entre otras cosas, de las versiones de Spark y de Python.
 
-Para salir de la consola se utiliza el comando _exit_.
+Para salir de la consola se utiliza el comando_exit().
 ```
 exit()
 ```
