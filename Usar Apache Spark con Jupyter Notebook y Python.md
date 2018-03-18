@@ -1,4 +1,4 @@
-# Usar Apache Spark con Jupyter
+ Usar Apache Spark con Jupyter
 
 En este artículo vamos a aprender a utilizar Apache Spark con Python y Jupyter Notebook.
 
@@ -56,11 +56,20 @@ Después reiniciaremos la consola o terminal y ejecutaremos el comando pyspark.
 
 ### 2 - Cargando el paquete findSpark desde un script Python en Jupyter Notebook.
 
-_en construcción_
+La segunda forma de utilizar Spark y Python con Jupiter Notebook es ejecutar éste ultimo, crear un nuevo script Python, como vimos al inicio del artículo, e importar la librería findspark.
+
+Pero antes de nada hemos de instalar en nuestro sistema el paquete correspondiente a dicha librería:
+
+```
+# Instalar la librería findspark
+pip install findspark
+```
+
+[findspark](images/jupyter-findspark.png)
+
 
 
 ## Referencias
 
 [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
-
 
