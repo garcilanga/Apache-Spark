@@ -1,4 +1,4 @@
-# Usar Apache Spark con Jupyter
+# Usar Apache Spark con Jupyter Notebook
 
 En este artículo veremos cómo utilizar Apache Spark y Python con Jupyter Notebook.
 
@@ -12,7 +12,9 @@ En primer lugar instalaremos Jupyter Notebook en nuestra máquina (si es que no 
 # Instalar Jupyter Notebook
 pip install jupyter
 ```
+En este artículo veremos cómo utilizar Apache Spark y Python con Jupyter Notebook.
 
+Como punto de partida consideraremos que tenemos una máquina con S.O. Ubuntu 16.04 (Xenial) en el que ya se encuentran instalados tanto Apache Spark como Python y su gestor de paquetes pip.
 Una vez instalado, podemos arrancar Jupyter Notebook desde un terminal con el siguiente comando:
 
 ```
