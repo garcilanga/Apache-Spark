@@ -65,9 +65,7 @@ Pero antes de nada hemos de instalar en nuestro sistema el paquete correspondien
 pip install findspark
 ```
 
-[findspark](images/jupyter-findspark.png)
-
-
+![findspark](images/jupyter-findspark.png)
 
 ## Referencias
 
