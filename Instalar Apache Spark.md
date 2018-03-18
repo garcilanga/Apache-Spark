@@ -40,14 +40,14 @@ export SPARK_HOME=/opt/spark
 export PATH=$SPARK_HOME/bin:$PATH
 ```
 
-Podemos escribir estas variables de entorno cada vez que abramos una nueva consola o terminal, o evitar tener que hacerlo añadiéndolas a nuestro archivo ~./bashrc para tenerlas siempre disponbles.
+Podemos escribir estas variables de entorno cada vez que abramos una nueva consola o terminal, o evitar tener que hacerlo añadiéndolas a nuestro archivo ~./bashrc para tenerlas siempre disponibles (en este caso hay que reiniciar la consola despues de modificar el fichero).
 
 ```
 # Editar ~/.bashrc
 sudo nano ~/.bashrc
 ```
 
-Ahora sólo nos falta ejecutar la consola y ponernos a trabajar...
+Una vez que hemos indicado al intérpreta de comandos bash dónde puede encontrar la instalación de apache Spark, sólo nos queda abrir la consola y ponernos a trabajar...
 
 ```
 # Abir la consola de Python para Spark
