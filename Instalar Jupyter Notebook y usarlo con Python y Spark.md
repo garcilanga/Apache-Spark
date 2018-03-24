@@ -73,6 +73,20 @@ Una vez instalada, ejecutamos Jupyter Notebook, creamos un nuevo script Pyhon e 
 
 Ahora ya podemos utilizar Apache Spark programando en Python.
 
+## Ejecución sin insertar las variables de entorno en el fichero ~/.bashrc
+
+Si no quieres insertar las variables de entorno en el fichero ~/.bashrc, tendrás que cargarlas antes de ejecutar jupiter notebook:
+
+```
+export SPARK_HOME=/opt/spark
+export PATH=$SPARK_HOME/bin:$PATH
+
+export PYSPARK_DRIVER_PYTHON=jupyter
+export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
+
+pyspark
+```
+
 ## Referencias
 
 - [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
