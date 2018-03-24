@@ -1,4 +1,4 @@
-# Usar Apache Spark con Jupyter Notebook
+# Instalar Jupyter Notebook y usarlo con Apache Spark 
 
 En este artículo veremos cómo utilizar Apache Spark y Python con Jupyter Notebook.
 
@@ -75,5 +75,5 @@ Ahora ya podemos utilizar Apache Spark programando en Python.
 
 ## Referencias
 
-[Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
-
+- [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
+- [Apache Spark in Python: Beginner's Guide](https://www.datacamp.com/community/tutorials/apache-spark-python)
