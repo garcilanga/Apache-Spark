@@ -63,6 +63,16 @@ Para salir de la consola utilizaremos el comando exit().
 exit()
 ```
 
+## Ejecución sin insertar las variables de entorno en el fichero ~/.bashrc
+
+Si no quieres insertar las variables de entorno en el fichero ~/.bashrc, tendrás que cargarlas antes de ejecutar pyspark:
+
+```
+export SPARK_HOME=/opt/spark
+export PATH=$SPARK_HOME/bin:$PATH
+pyspark
+```
+
 ## Referencias
 
 - [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
