@@ -75,7 +75,7 @@ Ahora ya podemos utilizar Apache Spark programando en Python.
 
 ## Ejecución sin insertar las variables de entorno en el fichero ~/.bashrc
 
-Si no quieres insertar las variables de entorno en el fichero ~/.bashrc, tendrás que cargarlas antes de ejecutar jupiter notebook:
+Si no quieres insertar las variables de entorno en el fichero ~/.bashrc, tendrás que cargarlas antes de ejecutar jupyter notebook:
 
 ```
 export SPARK_HOME=/opt/spark
