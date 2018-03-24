@@ -1,4 +1,4 @@
-# Instalar Jupyter Notebook y usarlo con Apache Spark 
+# Instalar Jupyter Notebook y usarlo con Python y Spark 
 
 En este artículo veremos cómo utilizar Apache Spark y Python con Jupyter Notebook.
 
