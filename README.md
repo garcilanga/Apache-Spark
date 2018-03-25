@@ -41,8 +41,10 @@ Los artículos de esta serie estarán orientados a una instalación de Apache Sp
 1. [Instalar Apache Spark.](https://github.com/garcilanga/Apache-Spark/blob/master/Instalar%20Apache%20Spark.md)
 2. [Instalar Jupyter Notebook y usarlo con Python y Spark.](https://github.com/garcilanga/Apache-Spark/blob/master/Instalar%20Jupyter%20Notebook%20y%20usarlo%20con%20Python%20y%20Spark.md)
 3. [Ejercicio: Cálculo del número Pi.](https://github.com/garcilanga/Apache-Spark/blob/master/PySpark-C%C3%A1lculo%20del%20n%C3%BAmero%20PI.md)
-4. Ejercicio: contar y buscar palabras en archivos de texto. 
-5. ...
+4. [Cargar ficheros de texto en un RDD](https://github.com/garcilanga/Apache-Spark/blob/master/PySpark-Cargar%20ficheros%20de%20texto.md)
+5. [Mostrar el contenido de un RDD](https://github.com/garcilanga/Apache-Spark/blob/master/PySpark-Mostrar%20el%20contenido%20de%20un%20RDD.md)
+6. Ejercicio: contar y buscar palabras en archivos de texto. 
+7. ...
 
 ### Referencias
 
