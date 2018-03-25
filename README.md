@@ -40,7 +40,7 @@ Los artículos de esta serie estarán orientados a una instalación de Apache Sp
 
 1. [Instalar Apache Spark.](https://github.com/garcilanga/Apache-Spark/blob/master/Instalar%20Apache%20Spark.md)
 2. [Instalar Jupyter Notebook y usarlo con Python y Spark.](https://github.com/garcilanga/Apache-Spark/blob/master/Instalar%20Jupyter%20Notebook%20y%20usarlo%20con%20Python%20y%20Spark.md)
-3. [Ejercicio: calcular el valor del número PI.](https://github.com/garcilanga/Apache-Spark/blob/master/Ejercicio_calcular_pi.ipynb)
+3. [Ejercicio: Cálculo del número Pi.](https://github.com/garcilanga/Apache-Spark/blob/master/PySpark-C%C3%A1lculo%20del%20n%C3%BAmero%20PI.md)
 4. Ejercicio: contar y buscar palabras en archivos de texto. 
 5. ...
 
